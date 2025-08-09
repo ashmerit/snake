@@ -10,4 +10,4 @@ $ make run
 ```
 
 ## Screenshots
-![Screenshot 1](/home/milo/Projects/snake/screenshots/1.png)
+![Screenshot 1](https://github.com/ashmerit/snake/blob/main/screenshots/1.png)
